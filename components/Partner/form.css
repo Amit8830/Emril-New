@@ -1,0 +1,75 @@
+.form_1 {
+}
+
+.nyork {
+  position: absolute;
+  width: 1432px;
+  height: 111px;
+  top: 2px;
+}
+
+.form_2 {
+}
+
+.form_3 {
+  position: absolute;
+  left: 694px;
+  top: 18px;
+}
+
+.dream {
+  position: relative;
+  font-size: 13px;
+  width: 138px;
+}
+
+.nam_1 {
+  position: absolute;
+  width: 235px;
+  height: 23px;
+}
+
+.nam_2 {
+  position: absolute;
+  left: 940px;
+  top: 41px;
+  width: 235px;
+  height: 23px;
+}
+
+.nam_3 {
+  position: absolute;
+  left: 694px;
+  width: 235px;
+  height: 23px;
+  top: 74px;
+}
+
+.nam_4 {
+  position: absolute;
+  left: 940px;
+  top: 75px;
+  width: 60px;
+  height: 22px;
+  font-size: 10px;
+  font-weight: bold;
+  background: black;
+  color: white;
+}
+
+.let {
+  position: absolute;
+  color: white;
+  font-weight: bold;
+  left: 362px;
+  top: 21px;
+}
+
+.par1 {
+  position: absolute;
+  width: 321px;
+  top: 48px;
+  left: 361px;
+  font-size: 12px;
+  font-weight: 600;
+}

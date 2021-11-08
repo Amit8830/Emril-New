@@ -1,0 +1,49 @@
+.serv {
+  position: absolute;
+  width: 340px;
+  top: 76px;
+  left: 311px;
+}
+
+.serv_1 {
+  color: orange;
+  font-weight: 700;
+}
+
+.num {
+  color: white;
+}
+
+.serv_2 {
+  position: absolute;
+  height: 486px;
+  width: 1374px;
+}
+
+.serv_3 {
+  position: absolute;
+  width: 324px;
+  top: 210px;
+  left: 234px;
+  height: 62px;
+}
+
+.serv_5 {
+  position: absolute;
+  height: 50px;
+  font-size: 44px;
+}
+
+.serv_6 {
+  position: absolute;
+  height: 50px;
+  font-size: 44px;
+}
+
+.serv_4 {
+  position: absolute;
+  width: 324px;
+  top: 337px;
+  left: 333px;
+  height: 62px;
+}

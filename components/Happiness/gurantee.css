@@ -1,0 +1,98 @@
+.guran {
+}
+
+.guran_1 {
+  position: absolute;
+  width: 111px;
+  left: 330px;
+  top: 27px;
+}
+.guran_2 {
+}
+.guran_3 {
+  position: absolute;
+  width: 366px;
+  height: 55px;
+  top: 48px;
+  left: 461px;
+  color: black;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.guran_4 {
+  position: absolute;
+  width: 448px;
+  top: 72px;
+  left: 461px;
+  font-size: 13px;
+  color: gray;
+}
+
+.guran_5 {
+  position: absolute;
+  /* background: aqua; */
+  color: black;
+  width: 1024px;
+  height: 131px;
+  top: 112px;
+  left: 131px;
+}
+
+.guran_6 {
+  width: 244 px;
+  height: 119 px;
+}
+
+.guran_7 {
+  position: absolute;
+  width: 191px;
+  font-size: xx-large;
+  height: 66px;
+  left: 137px;
+  top: 41px;
+}
+
+.team {
+  position: absolute;
+  width: 83px;
+  height: 64px;
+  right: 146px;
+}
+
+.land {
+  position: absolute;
+  width: 83px;
+  height: 64px;
+  left: 214px;
+}
+
+.nurse {
+  position: absolute;
+  width: 83px;
+  height: 64px;
+  left: 478px;
+}
+
+.shield {
+  position: absolute;
+  width: 83px;
+  height: 64px;
+  left: 714px;
+}
+
+.find {
+  font-size: 9px;
+  border-radius: 25px;
+  color: #c80d2d;
+  height: 19px;
+  width: 88px;
+}
+
+.bt_1 {
+  position: absolute;
+  width: 92px;
+  border-radius: 60px;
+  top: 131px;
+  left: 491px;
+}

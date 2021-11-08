@@ -1,0 +1,67 @@
+.shop {
+  position: absolute;
+  top: 688px;
+  left: 605px;
+  height: 59px;
+  width: 189px;
+  font-size: 53px;
+}
+
+.shop_1 {
+  position: absolute;
+  background: #eeebe5;
+  height: 147px;
+  width: 1384px;
+  top: 778px;
+}
+
+.shop_2 {
+  position: absolute;
+  background: #eeebe5;
+  height: 786px;
+  width: 1353px;
+  top: 938px;
+  right: 12px;
+
+}
+
+.shop2_1{
+  
+}
+
+
+.shop_3 {
+  position: absolute;
+  background: #eeebe5;
+  height: 283px;
+  width: 1299px;
+  top: 1736px;
+  right: 29px;
+}
+
+.shop_4 {
+  position: absolute;
+  background: #eeebe5;
+  height: 283px;
+  width: 1281px;
+  top: 2035px;
+  right: 36px;
+}
+
+.shop_5 {
+  position: absolute;
+  background: #eeebe5;
+  height: 486px;
+  width: 1374px;
+  top: 2329px;
+  left: 13px;
+}
+
+.shop_6 {
+  position: absolute;
+  background: #eeebe5;
+  height: 581px;
+  width: 1401px;
+  top: 2825px;
+  left: -9px;
+}

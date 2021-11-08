@@ -1,0 +1,60 @@
+.inte {
+  position: absolute;
+  left: 473px;
+  top: 26px;
+  color: black;
+  width: 496px;
+}
+
+.inte_1 {
+  position: relative;
+  font-size: 37px;
+  font-weight: 700;
+}
+
+.inte_2 {
+  position: absolute;
+  width: 32px;
+  left: 214px;
+  padding: 3px;
+  height: 4px;
+  color: #eb0505;
+  top: 33px;
+  border-radius: 49px;
+}
+
+/* .containe {
+  width: 196%;
+  position: absolute;
+  margin: auto;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 10px;
+  gap: 10px;
+  top: 84px;
+  right: -233px;
+}
+
+.image-card {
+  padding: 5px;
+  margin: 5px;
+  border: 1px solid #ddd;
+  border-radius: 2px;
+}
+
+.image {
+  width: 100%;
+} */
+
+.img_int {
+    width: 196%;
+    position: absolute;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+    gap: 10px;
+    top: 84px;
+    right: -233px;
+}
+

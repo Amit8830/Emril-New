@@ -1,0 +1,52 @@
+.partner {
+  position: absolute;
+  top: 3412px;
+  left: 616px;
+  font-size: 41px;
+}
+
+.partner_1 {
+  position: absolute;
+  background: white;
+  top: 3478px;
+  left: -10px;
+  height: 213px;
+  width: 1398px;
+}
+
+.partner_2 {
+  position: absolute;
+  background: white;
+  top: 3714px;
+  left: -9px;
+  height: 115px;
+  width: 1432px;
+}
+
+.brak {
+  position: absolute;
+  background: white;
+  top: 3847px;
+  left: -10px;
+  height: 4px;
+  width: 1447px;
+  border-radius: 12px;
+}
+
+.ima0 {
+  position: absolute;
+  top: 22px;
+  left: 107px;
+}
+
+.ima1 {
+}
+
+.ima2 {
+}
+
+.ima3 {
+}
+
+.ima4 {
+}

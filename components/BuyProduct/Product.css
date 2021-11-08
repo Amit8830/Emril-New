@@ -1,0 +1,16 @@
+.prod {
+  display: inline-flex;
+  width: 212px;
+  padding: 14px;
+  height: 308px;
+  color: black;
+}
+
+.prod_1 {
+  width: 185px;
+  top: -12px;
+  font-size: 14px;
+  font-weight: 700;
+  position: relative;
+  left: 17px;
+}

@@ -1,0 +1,45 @@
+.SimpleSlider {
+  position: absolute;
+  color: red;
+  width: 1346px;
+  right: -468px;
+  top: 140px;
+  height: 169px;
+  z-index: 1;
+}
+
+.car_0 {
+  height: 90px;
+}
+
+.car_1 {
+  height: 165px;
+  width: 168px;
+  top: 52px;
+  position: absolute;
+  right: -15px;
+}
+
+.car_2 {
+  color: black;
+  position: absolute;
+  top: 56px;
+  left: 116px;
+  width: 131px;
+  height: 157px;
+  font-size: 20px;
+}
+.car_00 {
+  display: grid;
+  height: 286px;
+  width: 1375px;
+  right: 11px;
+}
+
+.car_3 {
+  position: absolute;
+  color: black;
+  top: 114px;
+  left: 116px;
+  font-size: 18px;
+}

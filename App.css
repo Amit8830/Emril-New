@@ -1,0 +1,142 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Serif:wght@700&display=swap");
+
+.navbar {
+  background-color: wheat;
+  position: absolute;
+  left: 116px;
+  width: 1381px;
+  letter-spacing: 4px;
+}
+
+.navbar-brand {
+  font-size: 1.9rem !important;
+  color: #565387 !important;
+}
+
+.navbar a {
+  font-size: 1.3rem;
+  text-transform: capitalize;
+}
+
+.menu_active {
+  font-weight: bold;
+  border-bottom: 1px solid #565387;
+}
+
+.navbar a:hover {
+  color: rgb(90, 158, 204) !important;
+}
+
+.brand-name {
+  color: aqua;
+}
+
+.main {
+  height: 78px;
+  display: flex;
+  position: absolute;
+  top: -24px;
+  left: 8px;
+}
+
+.NavLink:hover {
+  color: aliceblue;
+}
+
+/* .nav_1 {
+} */
+
+.Nav_main {
+  width: 1386px;
+  top: -3px;
+}
+
+.sign_1 {
+  right: 105px;
+  background: yellow;
+  border-radius: 26px;
+}
+
+.cart_1 {
+  position: absolute;
+  right: 69px;
+}
+
+/* #features{
+
+}
+
+.a-container{
+  display: flex;
+  position: relative;
+  flex-direction: initial;
+} */
+
+#features {
+  width: 75%;
+  position: absolute;
+  top: 773px;
+  /* height: 22
+vh
+; */
+  /* box-sizing: border-box; */
+  font-family: "Lato";
+  display: flex;
+  /* flex-direction: column; */
+  /* align-items: center; */
+  /* justify-content: center; */
+  padding-top: 40px;
+  /* background-color: #000000; */
+}
+
+#features h1 {
+  /* color: #fff; */
+  font-size: 3rem;
+}
+.a-container {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  position: relative;
+  left: 162px;
+  bottom: 1px;
+}
+.a-box {
+  /* background-color:; */
+  width: 250px;
+  height: 163px;
+  margin: -44px;
+  border-radius: 10px;
+  overflow: hidden;
+  transition: 0.4s ease-in-out;
+  position: relative;
+}
+.a-b-img {
+  width: 73%;
+  height: 143%;
+}
+.a-b-img img {
+  padding: 15px;
+  margin-top: 40px;
+  width: 100%;
+  height: 50%;
+}
+
+
+@-webkit-keyframes up-down{
+  0%{
+    transform: translate(10px);
+  }
+  100%{
+    transform: translate(-10px);
+  }
+}
+
+@keyframes up-down{
+  0%{
+    transform: translate(10px);
+  }
+  100%{
+    transform: translate(-10px);
+  }
+}

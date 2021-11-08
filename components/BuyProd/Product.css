@@ -1,0 +1,12 @@
+.prod3 {
+  color: black;
+  display: inline;
+}
+
+.prod_4 {
+  position: relative;
+  display: inline-flex;
+  height: 353px;
+  width: 224px;
+  padding: 3px;
+}

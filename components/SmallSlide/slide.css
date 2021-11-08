@@ -1,0 +1,31 @@
+.sli_1 {
+  position: absolute;
+  display: grid;
+  width: 1377px;
+  height: 117px;
+  top: 11px;
+  left: 18px; 
+}
+
+ .sli_0{
+
+}
+
+.sli_2 {
+} 
+
+.sli_3 {
+   position: absolute;
+  width: 65px;
+  border-radius: 40px;
+  top: -8px; 
+}
+
+.deal {
+   position: absolute;
+  color: black;
+  top: 57px;
+  font-size: 15px;
+  font-weight: 700;
+  margin: 3px; 
+}
